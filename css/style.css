@@ -7,10 +7,10 @@
     background-color: pink;
     height: 150px;
     padding: 15px;
+    
     display: flex;
     justify-content: center;
     align-items: center;
-
 }
 
 [class*="col"] > .row{
@@ -21,6 +21,10 @@
     background-color: salmon;
     border: 1px solid white;
     height: 100%;
+}
+
+[class*="col"] > .row {
+    width: 100%;
 }
 
 .text-center{
