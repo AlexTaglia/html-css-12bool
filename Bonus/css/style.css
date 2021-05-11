@@ -1,0 +1,27 @@
+[class*="col"]{
+    height: 80px;
+}
+
+.red{
+    background-color: red;
+}
+
+.brown{
+    background-color: saddlebrown;
+}
+
+.skin{
+    background-color: burlywood;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.black{
+    background-color: black;
+}
